@@ -5,6 +5,7 @@ def cadastroCarro():
 
     print("\n --- FICHA DE CADASTRO --- \n")
 
+
     print("Modelo: ", modelo)
     print("Cor: ", cor)
     if AnoCarro > 2020:
